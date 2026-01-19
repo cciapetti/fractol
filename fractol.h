@@ -6,7 +6,7 @@
 /*   By: cciapett <cciapett@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/01/30 14:34:38 by cciapett          #+#    #+#             */
-/*   Updated: 2025/02/10 17:53:44 by cciapett         ###   ########.fr       */
+/*   Updated: 2026/01/19 14:30:31 by cciapett         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,8 +19,8 @@
 #include "libft/libft.h"
 #include "ft_printf/ft_printf.h"
 
-#define WIDTH 400
-#define HEIGHT 300
+#define WIDTH 1020
+#define HEIGHT 800
 #define MAXITER	100
 
 typedef struct s_axis
