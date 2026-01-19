@@ -49,4 +49,3 @@ Questo progetto è un'esplorazione dei frattali di Mandelbrot e Julia, renderizz
 -   `MiniLibX`: Una libreria grafica per X-Window.
 -   `libft`: Libreria di funzioni create in C
 
-## Struttura del Progetto
